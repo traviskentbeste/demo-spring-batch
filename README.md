@@ -1,5 +1,5 @@
-# spring-batch-demo
-Spring Batch Demo
+# demo-spring-batch
+Demo Spring Batch
 
 Table of contents
 =================
